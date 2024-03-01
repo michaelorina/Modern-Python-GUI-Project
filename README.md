@@ -6,7 +6,7 @@ This project aims to create a modern graphical user interface (GUI) using Python
 
 # Installation
 ## Clone this repository:
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/michaelorina/Modern-Python-GUI-Project.git
 
 ## Install the required dependencies:
 pip3 install tkinter
